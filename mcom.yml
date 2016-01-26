@@ -1,0 +1,9 @@
+---
+ - hosts: mcomexternal134
+   tasks:
+    - name: ping all environments
+      ping:
+    - name: hostnames
+      shell: hostname
+      register: hostname
+    - debug: var=hostname.stdout_lines
