@@ -1,2 +1,18 @@
 [mcomexternal134]
 jcia5162 ansible_connection=ssh
+jcia8026 ansible_connection=ssh
+jcia8146 ansible_connection=ssh
+jcia8019 ansible_connection=ssh
+jcia5057 ansible_connection=ssh
+jcia6072 ansible_connection=ssh
+jcia6117 ansible_connection=ssh
+jcia5220 ansible_connection=ssh
+jcie0282 ansible_connection=ssh
+jcie0284 ansible_connection=ssh
+jcie4274 ansible_connection=ssh
+jcia5200 ansible_connection=ssh
+jcia6427 ansible_connection=ssh
+jcia6124 ansible_connection=ssh
+jcia6289 ansible_connection=ssh
+jcia7682 ansible_connection=ssh
+jcia0313 ansible_connection=ssh
